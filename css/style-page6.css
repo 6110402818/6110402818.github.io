@@ -1,0 +1,23 @@
+.title{
+    position: absolute;
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 20px;
+
+    color: #383E56;
+}
+
+.menu-bar{
+    position: absolute;
+    width: 173px;
+    height: 754px;
+    left: 1345px;
+    top: 0px;
+
+    background: #D8B6D5;
+
+}

@@ -1,0 +1,93 @@
+.container{
+    position: absolute;
+    width: 858px;
+    height: 338px;
+    left: 65px;
+    top: 247px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 169px;
+
+    color: #383E56;
+}
+
+.fullscreen-block{
+    position: absolute;
+    width: 1440px;
+    height: 754px;
+    left: 0px;
+    top: 0px;
+
+    background: #D8B6D5;
+  }
+
+.menu-bar{
+    position: absolute;
+    width: 173px;
+    height: 754px;
+    left: 1345px;
+    top: 0px;
+
+    background: white;
+
+}
+
+.image-food{
+    position: absolute;
+    left: 1390px;
+    top: 40px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+.image-game{
+    position: absolute;
+    left: 1390px;
+    top: 190px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+.image-series{
+    position: absolute;
+    left: 1390px;
+    top: 340px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+
+.image-timetable{
+    position: absolute;
+    left: 1390px;
+    top: 490px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+.image-reference{
+    position: absolute;
+    left: 1390px;
+    top: 640px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+
+.reference-text{
+    position: absolute;
+    left: 1395px;
+    top: 730px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+
+    color: #383E56;
+}
+

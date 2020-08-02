@@ -1,0 +1,113 @@
+.image-home{
+    position: absolute;
+    left: 1390px;
+    top: 40px;
+    filter: invert(0.3) sepia(0.5) saturate(1) hue-rotate(195deg) brightness(0.8);
+
+}
+
+
+
+.main-box{
+    position: absolute;
+    width: 737px;
+    height: 480px;
+    left: 111px;
+    top: 200px;
+
+    background: #EEDAD1;
+
+}
+
+.sub-box{
+    position: absolute;
+    width: 430px;
+    height: 480px;
+    left: 881px;
+    top: 200px;
+
+    background: #EEDAD1
+
+}
+
+
+.top-box{
+    position: absolute;
+    width: 1345px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+
+    background: #D1E7EE;
+
+}
+
+
+.title-text{
+    position: absolute;
+    width: 767px;
+    height: 115px;
+    left: 200px;
+    top: 40px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+
+    color: #383E56;
+
+}
+
+
+
+.sub-box-text-title{
+    position: absolute;
+    left: 888px;
+    top: 500px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 20px;
+
+    color: #383E56;
+}
+
+
+.sub-box-text{
+    position: absolute;
+    left: 888px;
+    top: 530px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #383E56;
+}
+
+.image-box1{
+    position: absolute;
+    left: 180px;
+    top: 240px;
+
+}
+
+.image-top{
+    position: absolute;
+    left: 920px;
+    top: 240px;
+
+}
+
+.image-top2{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
